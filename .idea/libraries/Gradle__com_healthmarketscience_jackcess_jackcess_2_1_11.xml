@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.healthmarketscience.jackcess:jackcess:2.1.11">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.healthmarketscience.jackcess/jackcess/2.1.11/829ce7af9bad697181033703daa2dfd372fbee6a/jackcess-2.1.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.healthmarketscience.jackcess/jackcess/2.1.11/18b6fc2e5d2a1466c221c2bfc6a088cfd73ca646/jackcess-2.1.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
